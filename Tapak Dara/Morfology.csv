@@ -1,0 +1,19 @@
+﻿Tinggi,Length,Kind
+Pesisir,6.545,Panjang Daun (cm)
+Menengah (100-300 mdpl),4.765,Panjang Daun (cm)
+Tinggi (>800 mdpl),7.25,Panjang Daun (cm)
+Pesisir,3.125,Lebar Daun (cm)
+Menengah (100-300 mdpl),2.595,Lebar Daun (cm)
+Tinggi (>800 mdpl),3.025,Lebar Daun (cm)
+Pesisir,2.0944,Ratio Panjang & Lebar Daun
+Menengah (100-300 mdpl),1.836223507,Ratio Panjang & Lebar Daun
+Tinggi (>800 mdpl),2.396694215,Ratio Panjang & Lebar Daun
+Pesisir,1.9425,Diameter Batang (cm)
+Menengah (100-300 mdpl),2.9045,Diameter Batang (cm)
+Tinggi (>800 mdpl),5.38,Diameter Batang (cm)
+Pesisir,2.275,Panjang Nodus (cm)
+Menengah (100-300 mdpl),1.655,Panjang Nodus (cm)
+Tinggi (>800 mdpl),1.55,Panjang Nodus (cm)
+Pesisir,34.56,Tinggi Tanaman (cm)
+Menengah (100-300 mdpl),40.66,Tinggi Tanaman (cm)
+Tinggi (>800 mdpl),60.5375,Tinggi Tanaman (cm)
